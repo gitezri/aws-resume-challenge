@@ -18,7 +18,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - GitHub Actions
 - Terraform
 
-## [Live Demo 🔗](https://resume.rishab.cloud)
+## [Live Demo 🔗](https://carltonbrewster.com)
 
 ## YouTube Series
 
@@ -33,6 +33,5 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - 1. [What is the Cloud Resume Challenge?](https://dev.to/aws-builders/what-is-the-cloud-resume-challenge-ma5)
  
 ## Author
-- Twitter: [@rishabk7](https://twitter.com/rishabk7)
-- LinkedIn: [rishabkumar7](https://linked.com/in/rishabkumar7)
+- LinkedIn: [Carlton](https://www.linkedin.com/in/carltonbrewster/)
   
